@@ -4,7 +4,8 @@ title:  "Tangut Character Recognition"
 date:   2018-09-02 16:34:02 +0800
 categories: Tangut
 ---
-Tangut is a dead language used more than 1000 years ago.
+## Research on Tangut recognition
 
-![Tangut](/assets/img/tangut-document.png)
+1. [Deep learning Based Tangut Character recognition](https://ieeexplore.ieee.org/document/8248332/)
+   Citation: G. Zhang and X. Han, "Deep learning based tangut character recognition," 2017 4th International Conference on Systems and Informatics (ICSAI), Hangzhou, 2017, pp. 437-441.
 
