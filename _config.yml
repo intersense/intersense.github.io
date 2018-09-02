@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Tangut Character Recognition
-email: zgw1982 AT gmail.com
+email: zgw1982 at gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   We are working on building a deep learning based Tangut character recognition system.
 

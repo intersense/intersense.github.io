@@ -5,4 +5,4 @@ permalink: /about/
 ---
 This the Tangut character recognition project in [**Shaanxi Normal University**](http://www.snnu.edu.cn).
 
-We have annotated 100000+ images of Tangut characters from historial Tangut documents.
+More than 100,000 images of Tangut characters from historial Tangut documents have been annotated as the training dataset.
