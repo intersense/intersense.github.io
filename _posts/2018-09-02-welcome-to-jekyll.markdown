@@ -6,4 +6,5 @@ categories: Tangut
 ---
 Tangut is a dead language used more than 1000 years ago.
 
+![Tangut]("/imgs/tangut-document.png")
 
