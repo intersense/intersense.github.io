@@ -1,8 +1,8 @@
 ---
 layout: page
-title: About
+title: 关于本站
 permalink: /about/
 ---
-This the Tangut character recognition project in [**Shaanxi Normal University**](http://www.snnu.edu.cn).
+This the Tangut character recognition project website of Guangwei Zhang.
 
 More than 100,000 images of Tangut characters from historial Tangut documents have been annotated as the training dataset.
